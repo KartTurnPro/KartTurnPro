@@ -1,1 +1,3 @@
-console.log("Kart Turn Pro está em funcionamento!");
+document.addEventListener("DOMContentLoaded", function() {
+    console.log("Kart Turn Pro está pronto!");
+});
