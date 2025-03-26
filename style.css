@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kart Turn Pro</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo ao Kart Turn Pro</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="motors.html">Motores</a></li>
+                <li><a href="circuits.html">Circuitos</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="intro">
+            <h2>Ajustes e Afinações para o Kart</h2>
+            <p>Comece a configurar o seu kart e a acompanhar o Campeonato Nacional de Karting.</p>
+        </section>
+
+        <footer>
+            <p>&copy; 2025 Kart Turn Pro</p>
+        </footer>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

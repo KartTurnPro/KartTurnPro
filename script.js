@@ -1,0 +1,1 @@
+console.log("Kart Turn Pro está em funcionamento!");
