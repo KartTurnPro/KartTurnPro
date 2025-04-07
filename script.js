@@ -1,0 +1,1 @@
+console.log("Kart Turn Pro - site carregado com sucesso!");
